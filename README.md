@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2>Привет 👋 </h2>
 
-<!--
-**KateSibi/katesibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>Меня зовут Катерина Сибирцева 🙋🏼‍♀️ </h4>
 
-Here are some ideas to get you started:
+<h5>и я начаю свой путь в IT как Инженер по тестированию 🐣</h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> В моем бэкграунде 6 лет обеспечения качества производства на оборонном предприятии Роскосмоса 👩🏼‍🔧👩🏼‍🚀, но теперь настало время обеспечить качество в IT 🦸🏼‍♀️
+
+* 🌍  Я живу в г. Калининград
+* ✉️  Связаться со мной можно по почте [katesini@yandex.ru](mailto:katesini@yandex.ru)
+* 🚀  Сейчас работаю над проектом [Приложение для отслеживания парковок Parkonaft](http://github.com/car-parking-tracking)
+* ⏳  Потратила на просмотр сериалов почти 4000 часов. Знаю народные мудрости и приметы.
+
