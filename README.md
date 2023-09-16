@@ -5,8 +5,7 @@
 
 ___
 
-В моем бэкграунде 6 лет обеспечения качества производства на оборонном предприятии Роскосмоса ![image](https://github.com/KateSibi/katesibi/assets/117051965/4054c402-cd45-4081-9406-01758e42a08d)
-, но теперь настало время обеспечить качество в IT ![image](https://github.com/KateSibi/katesibi/assets/117051965/6b088b69-466a-42e8-9054-e5cbbe27db96)
+В моем бэкграунде 6 лет обеспечения качества производства на оборонном предприятии Роскосмоса ![image](https://github.com/KateSibi/katesibi/assets/117051965/4054c402-cd45-4081-9406-01758e42a08d), но теперь настало время обеспечить качество в IT ![image](https://github.com/KateSibi/katesibi/assets/117051965/6b088b69-466a-42e8-9054-e5cbbe27db96)
 
 
 
