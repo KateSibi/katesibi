@@ -14,16 +14,7 @@ ___
 
 ---
 
-<h3>👥 Социальные сети:</h3>
 
-<div id="badges">
-    <a href="https://vk.com/id348173105" target="_blank">
-      <img src="https://img.icons8.com/?size=38&id=114452&format=png" alt="VK Badge"/>
-    </a>
-    <a href="https://t.me/katesibi" target="_blank">
-      <img src="https://img.icons8.com/?size=38&id=63306&format=png" alt="TG Badge"/>
-    </a>
-  </div>
 
 ---
 
